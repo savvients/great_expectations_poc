@@ -1,0 +1,7 @@
+expectations:
+  - expectation_type: ExpectColumnValuesToNotBeNull
+    kwargs:
+      column: station_id
+  - expectation_type: ExpectColumnValuesToNotBeNull
+    kwargs:
+      column: landmark
